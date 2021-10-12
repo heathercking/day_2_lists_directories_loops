@@ -45,7 +45,7 @@ print(index_of_7)
 for number in numbers:
     sum += number
 
-# don't know (yet)!! the next exercise was easier than this one!... will have to come back to it. 
+# don't know (yet)! the thought the next exercise was easier than this one!... will have to come back to it. 
     
 print(sum)
 
